@@ -15,6 +15,10 @@ See also the general topics below, especially data structures and algorithms.
 - [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) (CSG) -- boolean operations on meshes
 - [Fast Inverse Square Root](https://en.wikipedia.org/wiki/Fast_inverse_square_root) -- famous algorithm for calculating `1 / sqrt(x)`, used heavily for vector normalization (originally for lighting in Quake III Arena)
 
+- Game AI
+  - [Behavior Trees](https://en.wikipedia.org/wiki/Behavior_tree)
+  - [Boids](https://en.wikipedia.org/wiki/Boids) (flocking behavior)
+
 ### Programming Language Theory and Compilers/Interpreters
 - [The Programming Languages Zoo](http://plzoo.andrej.com)
 - [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html) (follow-up: [(An ((Even Better) Lisp) Interpreter (in Python))](http://norvig.com/lispy2.html))
@@ -43,15 +47,27 @@ See also the general topics below, especially data structures and algorithms.
 - [Earley parsers](https://en.wikipedia.org/wiki/Earley_parser)
 - [Shunting-yard algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm) for easy infix expression parsing (infix to tree/prefix/postfix)
 - [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
+- [Monadic Parsing in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pearl.pdf)
 
 ### Useful/Interesting Algorithms
 - [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (also known as CLRS, a famous algorithms book)
 - [Boyer–Moore–Horspool algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore%E2%80%93Horspool_algorithm) (fast substring search, used notably in `grep`)
 - [Burrows–Wheeler transform](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform) (decreases entropy in data reversibly, used notably in `bzip2`)
 - [Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding) (tree for generating optimal prefix codes, used a lot in compression)
+- [Bucket Sort](https://en.wikipedia.org/wiki/Bucket_sort), [Tree Sort](https://en.wikipedia.org/wiki/Tree_sort), [Radix Sort](https://en.wikipedia.org/wiki/Radix_sort)
+- Pathfinding / Graph Searching
+  - [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra's_algorithm) (general shortest-path pathfinding / graph traversal)
+  - [A*](https://en.wikipedia.org/wiki/A*_search_algorithm) (Dijkstra's algorithm with heuristics, very commonly used)
+  - [D* Lite](https://en.wikipedia.org/wiki/D*#D.2A_Lite)
+  - [Jump Point Search](https://en.wikipedia.org/wiki/Jump_point_search)
 
 ### Data Structures
 - [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)
+- van Laarhoven lenses (see the Haskell section on `lens`)
+- [Purely Functional Data Structures](https://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504) (commercial book; extended from [freely available thesis](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf))
+- Free Monads
+  - [Purify Code Using Free Monads](http://www.haskellforall.com/2012/07/purify-code-using-free-monads.html)
+  - [You Could Have Invented Free Monads](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html)
 - Spatial partitioning
   - [Quadtrees](https://en.wikipedia.org/wiki/Quadtree) (2D), [Octrees](https://en.wikipedia.org/wiki/Octree) (3D)
   - [Bounding Volume Hierarchies](https://en.wikipedia.org/wiki/Bounding_volume_hierarchy)
@@ -85,6 +101,8 @@ See also the general topics below, especially data structures and algorithms.
 - [Harvard architecture](https://en.wikipedia.org/wiki/Harvard_architecture), [Modified Harvard architecture](https://en.wikipedia.org/wiki/Modified_Harvard_architecture)
 - [Stack machines](https://en.wikipedia.org/wiki/Stack_machine) (useful in programming language VMs or concatenative languages)
 - [Register machines](https://en.wikipedia.org/wiki/Register_machine)
+- [Delay slots](https://en.wikipedia.org/wiki/Delay_slot)
+- [Branch Prediction](https://en.wikipedia.org/wiki/Branch_predictor)
 
 ### [Lisp Machines](https://en.wikipedia.org/wiki/Lisp_machine)
 
@@ -133,8 +151,13 @@ See also the general topics below, especially data structures and algorithms.
 ### Haskell
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com) (free book)
 - [Haskell Programming from First Principles](http://haskellbook.com) (free book)
+- [Real World Haskell](http://book.realworldhaskell.org/) (free book)
+- [Introduction to Haskell](http://www.seas.upenn.edu/~cis194/spring13/lectures.html)
 - [Documentation for Prelude](https://hackage.haskell.org/package/base/docs/Prelude.html)
 - [Stack](https://docs.haskellstack.org/en/stable/README) (Package manager with stable package tree snapshots and sandboxing)
+- [lens](http://lens.github.io)
+  - [History of Lenses](https://github.com/ekmett/lens/wiki/History-of-Lenses)
+- See the *Purely Functional Data Structures* and *Free Monads* sections in Data Structures above
 
 ### LISP
 - [Recursive Functions of Symbolic Expressions and Their Computation by Machine](http://www-formal.stanford.edu/jmc/recursive.html) (seminal LISP paper by McCarthy)
