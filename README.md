@@ -26,6 +26,12 @@ See also the general topics below, especially data structures and algorithms.
 - [Write You A Haskell](http://dev.stephendiehl.com/fun) (currently unfinished)
 - [Official LLVM Tutorial](http://llvm.org/docs/tutorial/) (implements a compiler for a tiny toy language called Kaleidoscope); [Haskell](http://www.stephendiehl.com/llvm/) and [OCaml](http://llvm.org/docs/tutorial/OCamlLangImpl1.html) versions also available. 
 
+- Optimization
+  - [Constant Folding](https://en.wikipedia.org/wiki/Constant_folding) (basic optimization by statically evaluating constants)
+  - [Automatic Vectorization](https://en.wikipedia.org/wiki/Automatic_vectorization) -- automatically convert scalar code to vectorized (SIMD) code
+  - [Deforestation](https://en.wikipedia.org/wiki/Deforestation_(computer_science))
+  
+
 ## Decompilation
 - [Reverse Compilation Techniques](https://yurichev.com/mirrors/DCC_decompilation_thesis.pdf) (Cristina Cifuentes' rather in-depth thesis on decompilation)
 - [decomp](https://github.com/decomp/decomp)
@@ -95,7 +101,7 @@ See also the general topics below, especially data structures and algorithms.
 
 
 ### Python
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) (free book)
 - [Documentation](https://docs.python.org/3)
   - GUIs
     - Qt
@@ -106,9 +112,24 @@ See also the general topics below, especially data structures and algorithms.
       - [Tkinter tutorial](http://zetcode.com/gui/tkinter/)
       - [Graphical User Interfaces with Tk](https://docs.python.org/3/library/tk.html)
 
+### JavaScript
+- [Eloquent Javascript](http://eloquentjavascript.net/) (free book)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) (series of free books)
+- [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [Typed Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays) for manipulating binary data / compact native arrays
+- [TextEncoder](https://developer.mozilla.org/en-US/docs/Web/API/TextEncoder)/[TextDecoder](https://developer.mozilla.org/en-US/docs/Web/API/TextDecoder) APIs for text codecs
+- [SIMD.js](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SIMD)
+- [Emscripten](https://github.com/kripken/emscripten), [Cheerp](http://leaningtech.com/cheerp/) -- C/C++/LLVM to JavaScript/asm.js/webasm compilers
+
+### TypeScript
+- [Tutorial](https://www.typescriptlang.org/docs/tutorial.html)
+- [Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+- [Compiler Options Reference](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
+
 ### Haskell
-- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com)
-- [Haskell Programming from First Principles](http://haskellbook.com)
+- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com) (free book)
+- [Haskell Programming from First Principles](http://haskellbook.com) (free book)
 - [Documentation for Prelude](https://hackage.haskell.org/package/base/docs/Prelude.html)
 - [Stack](https://docs.haskellstack.org/en/stable/README) (Package manager with stable package tree snapshots and sandboxing)
 
@@ -117,16 +138,16 @@ See also the general topics below, especially data structures and algorithms.
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/) (also known as The Wizard Book)
 
 ### Erlang
-- [Learn You Some Erlang for Great Good!](http://learnyousomeerlang.com)
+- [Learn You Some Erlang for Great Good!](http://learnyousomeerlang.com) (free book)
 - [Documentation](https://www.erlang.org/docs)
 
 ### OCaml
-- [Real World OCaml](https://realworldocaml.org)
+- [Real World OCaml](https://realworldocaml.org) (free book)
 - [Documentation](http://www.ocaml.org/docs)
 - [OPAM](http://opam.ocaml.org) (Package Manager)
 
 ### Rust
-- [Rust By Example](http://rustbyexample.com)
+- [Rust By Example](http://rustbyexample.com) (free book)
 - [Manual](https://doc.rust-lang.org/book)
 - [Documentation](https://doc.rust-lang.org/std)
 - [docs.rs](https://docs.rs) (Third-party package documentation)
