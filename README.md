@@ -162,6 +162,7 @@ See also the general topics below, especially data structures and algorithms.
 ### LISP
 - [Recursive Functions of Symbolic Expressions and Their Computation by Machine](http://www-formal.stanford.edu/jmc/recursive.html) (seminal LISP paper by McCarthy)
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/) (also known as The Wizard Book)
+- [Lambda Papers](http://library.readscheme.org/page1.html)
 
 ### Erlang
 - [Learn You Some Erlang for Great Good!](http://learnyousomeerlang.com) (free book)
@@ -177,3 +178,8 @@ See also the general topics below, especially data structures and algorithms.
 - [Manual](https://doc.rust-lang.org/book)
 - [Documentation](https://doc.rust-lang.org/std)
 - [docs.rs](https://docs.rs) (Third-party package documentation)
+
+## Culture
+
+- [On The Cruelty Of Really Teaching Computing Science](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html) -- Dijkstra essay
+- [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) -- free book/essay by Eric Raymond
