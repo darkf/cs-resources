@@ -26,7 +26,7 @@ See also the general topics below, especially data structures and algorithms.
 - [Build Your Own Lisp](http://www.buildyourownlisp.com)
 - [The Implementation of Functional Programming Languages](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987)
 - [Hindley-Milner explanation](http://akgupta.ca/blog/2013/05/14/so-you-still-dont-understand-hindley-milner)
-- [Modern Compiler Implementation in ML](https://www.cs.princeton.edu/~appel/modern/ml) (variants in C and Java are available, but I don't recommend them)
+- [Modern Compiler Implementation in ML](https://www.cs.princeton.edu/~appel/modern/ml) (commercial book; variants in C and Java are available, but aren't as good)
 - [Compilers: Principles, Techniques, and Tools](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools) (aka The Dragon Book)
 - [Write You A Haskell](http://dev.stephendiehl.com/fun) (currently unfinished)
 - [Official LLVM Tutorial](http://llvm.org/docs/tutorial/) (implements a compiler for a tiny toy language called Kaleidoscope); [Haskell](http://www.stephendiehl.com/llvm/) and [OCaml](http://llvm.org/docs/tutorial/OCamlLangImpl1.html) versions also available. 
