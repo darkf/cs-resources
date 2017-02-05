@@ -152,6 +152,9 @@ See also the general topics below, especially data structures and algorithms.
 - [Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 - [Compiler Options Reference](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
 
+### CSS
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
 ### Haskell
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com) (free book)
 - [Haskell Programming from First Principles](http://haskellbook.com) (free book)
@@ -159,8 +162,11 @@ See also the general topics below, especially data structures and algorithms.
 - [Introduction to Haskell](http://www.seas.upenn.edu/~cis194/spring13/lectures.html)
 - [Documentation for Prelude](https://hackage.haskell.org/package/base/docs/Prelude.html)
 - [Stack](https://docs.haskellstack.org/en/stable/README) (Package manager with stable package tree snapshots and sandboxing)
-- [lens](http://lens.github.io)
+- Lenses
+  - [lens](http://lens.github.io) library
   - [History of Lenses](https://github.com/ekmett/lens/wiki/History-of-Lenses)
+  - [Lenses in Pictures](http://adit.io/posts/2013-07-22-lenses-in-pictures.html) (nice visual explanation)
+- [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) (visual explanation of functors/applicative functors/monads)
 - [A History of Haskell: Being Lazy With Class](http://research.microsoft.com/en-us/um/people/simonpj/papers/history-of-haskell/) (a history of Haskell)
 - [Philip Wadler's monad papers](http://homepages.inf.ed.ac.uk/wadler/topics/monads.html)
   - [Monads For Functional Programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
