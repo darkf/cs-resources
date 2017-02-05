@@ -8,12 +8,12 @@
 ### Game Development
 See also the general topics below, especially data structures and algorithms.
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/)
-- Entity Component Systems
-  - [Wikipedia article](https://en.wikipedia.org/wiki/Entity%E2%80%93component%E2%80%93system)
+- [Entity Component Systems](https://en.wikipedia.org/wiki/Entity%E2%80%93component%E2%80%93system)
   - [A simple high-level explanation](http://gamedev.stackexchange.com/a/31491)
   - [Evolve Your Hierarchy](http://cowboyprogramming.com/2007/01/05/evolve-your-heirachy) (one of the earlier mainstream ECS papers)
 - [What Every Coder Should Know About Gamma](http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma)
 - [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) (CSG) -- boolean operations on meshes
+- [Fast Inverse Square Root](https://en.wikipedia.org/wiki/Fast_inverse_square_root) -- famous algorithm for calculating `1 / sqrt(x)`, used heavily for vector normalization (originally for lighting in Quake III Arena)
 
 ### Programming Language Theory and Compilers/Interpreters
 - [The Programming Languages Zoo](http://plzoo.andrej.com)
@@ -72,6 +72,24 @@ See also the general topics below, especially data structures and algorithms.
 - [NixOS](https://nixos.org) (see also [Nix](https://nixos.org/nix), its more portable package manager) -- an OS built around Nix, a referentially transparent package manager. Allows you to build an entire OS setup around a single config file, with multiple profiles and no package dependency hell.
 - [MenuetOS](http://menuetos.net) -- fairly modern OS written in x86_64 assembly
 - [MINIX](https://en.wikipedia.org/wiki/MINIX) -- the teaching OS
+
+## Computer Architectures
+
+### General Concepts
+- [Harvard architecture](https://en.wikipedia.org/wiki/Harvard_architecture), [Modified Harvard architecture](https://en.wikipedia.org/wiki/Modified_Harvard_architecture)
+- [Stack machines](https://en.wikipedia.org/wiki/Stack_machine) (useful in programming language VMs or concatenative languages)
+- [Register machines](https://en.wikipedia.org/wiki/Register_machine)
+
+### [Lisp Machines](https://en.wikipedia.org/wiki/Lisp_machine)
+
+### x86 / x86_64
+- [x86 Assembly Wikibook](https://en.wikibooks.org/wiki/X86_Assembly)
+- [x86 Instruction Set Reference](http://x86.renejeschke.de)
+- [\[xchg rax,rax\]](https://www.xorpd.net/pages/xchg_rax/snip_00.html) -- interesting/clever x86_64 snippets
+
+### MIPS
+- [SPIM](http://spimsimulator.sourceforge.net/) (MIPS simulator; unfortunately no macros/pseudo-instructions)
+- [MARS](http://courses.missouristate.edu/KenVollmar/mars/) (another MIPS simulator, more featureful but requires Java)
 
 ## Language Specific
 
