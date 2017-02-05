@@ -49,8 +49,9 @@ See also the general topics below, especially data structures and algorithms.
 - [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
 - [Monadic Parsing in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pearl.pdf)
 
-### Useful/Interesting Algorithms
+### Algorithms
 - [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (also known as CLRS, a famous algorithms book)
+- [Big O in Plain English](http://stackoverflow.com/a/487278)
 - [Boyer–Moore–Horspool algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore%E2%80%93Horspool_algorithm) (fast substring search, used notably in `grep`)
 - [Burrows–Wheeler transform](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform) (decreases entropy in data reversibly, used notably in `bzip2`)
 - [Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding) (tree for generating optimal prefix codes, used a lot in compression)
