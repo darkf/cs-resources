@@ -30,11 +30,14 @@ See also the general topics below, especially data structures and algorithms.
 - [Compilers: Principles, Techniques, and Tools](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools) (aka The Dragon Book)
 - [Write You A Haskell](http://dev.stephendiehl.com/fun) (currently unfinished)
 - [Official LLVM Tutorial](http://llvm.org/docs/tutorial/) (implements a compiler for a tiny toy language called Kaleidoscope); [Haskell](http://www.stephendiehl.com/llvm/) and [OCaml](http://llvm.org/docs/tutorial/OCamlLangImpl1.html) versions also available. 
+- [Control Flow Graphs/Analysis](https://en.wikipedia.org/wiki/Control_flow_graph)
+- [Data Flow Graphs/Analysis](https://en.wikipedia.org/wiki/Data-flow_analysis)
 
 - Optimization
   - [Constant Folding](https://en.wikipedia.org/wiki/Constant_folding) (basic optimization by statically evaluating constants)
   - [Automatic Vectorization](https://en.wikipedia.org/wiki/Automatic_vectorization) -- automatically convert scalar code to vectorized (SIMD) code
   - [Deforestation](https://en.wikipedia.org/wiki/Deforestation_(computer_science))
+  - [Dead Code Elimination](https://en.wikipedia.org/wiki/Dead_code_elimination) (via control flow analysis)
   
 
 ### Decompilation
