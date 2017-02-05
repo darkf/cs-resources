@@ -17,13 +17,14 @@ See also the general topics below, especially data structures and algorithms.
 
 ### Programming Language Theory and Compilers/Interpreters
 - [The Programming Languages Zoo](http://plzoo.andrej.com)
-- [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html)
+- [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html) (follow-up: [(An ((Even Better) Lisp) Interpreter (in Python))](http://norvig.com/lispy2.html))
 - [Build Your Own Lisp](http://www.buildyourownlisp.com)
 - [The Implementation of Functional Programming Languages](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987)
 - [Hindley-Milner](http://akgupta.ca/blog/2013/05/14/so-you-still-dont-understand-hindley-milner)
 - [Modern Compiler Implementation in ML](https://www.cs.princeton.edu/~appel/modern/ml) (variants in C and Java are available, but I don't recommend them)
 - [Compilers: Principles, Techniques, and Tools](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools) (aka The Dragon Book)
 - [Write You A Haskell](http://dev.stephendiehl.com/fun) (currently unfinished)
+- [Official LLVM Tutorial](http://llvm.org/docs/tutorial/) (implements a compiler for a tiny toy language called Kaleidoscope); [Haskell](http://www.stephendiehl.com/llvm/) and [OCaml](http://llvm.org/docs/tutorial/OCamlLangImpl1.html) versions also available. 
 
 ## Decompilation
 - [Reverse Compilation Techniques](https://yurichev.com/mirrors/DCC_decompilation_thesis.pdf) (Cristina Cifuentes' rather in-depth thesis on decompilation)
@@ -38,6 +39,7 @@ See also the general topics below, especially data structures and algorithms.
 - [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
 
 ### Useful/Interesting Algorithms
+- [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (also known as CLRS, a famous algorithms book)
 - [Boyer–Moore–Horspool algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore%E2%80%93Horspool_algorithm) (fast substring search, used notably in `grep`)
 - [Burrows–Wheeler transform](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform) (decreases entropy in data reversibly, used notably in `bzip2`)
 - [Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding) (tree for generating optimal prefix codes, used a lot in compression)
