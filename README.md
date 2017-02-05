@@ -62,6 +62,7 @@ See also the general topics below, especially data structures and algorithms.
   - [A*](https://en.wikipedia.org/wiki/A*_search_algorithm) (Dijkstra's algorithm with heuristics, very commonly used)
   - [D* Lite](https://en.wikipedia.org/wiki/D*#D.2A_Lite)
   - [Jump Point Search](https://en.wikipedia.org/wiki/Jump_point_search)
+- [Topological sorting](https://en.wikipedia.org/wiki/Topological_sorting) (for ordering nodes in a graph based on dependents)
 
 ### Data Structures
 - [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)
@@ -74,6 +75,8 @@ See also the general topics below, especially data structures and algorithms.
   - [Quadtrees](https://en.wikipedia.org/wiki/Quadtree) (2D), [Octrees](https://en.wikipedia.org/wiki/Octree) (3D)
   - [Bounding Volume Hierarchies](https://en.wikipedia.org/wiki/Bounding_volume_hierarchy)
   - [Binary Space Partitioning](https://en.wikipedia.org/wiki/Binary_space_partitioning) (BSP)
+- [Tries](https://en.wikipedia.org/wiki/Trie)
+- [Interval trees](https://en.wikipedia.org/wiki/Interval_tree) / [Segment trees](https://en.wikipedia.org/wiki/Segment_tree)
 
 ### Regular Expressions (Regex)
 
