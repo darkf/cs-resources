@@ -76,6 +76,8 @@ See also the general topics below, especially data structures and algorithms.
 
 ### Regular Expressions (Regex)
 
+- [Regular-Expressions.info](http://regular-expressions.info) (tutorial and reference)
+- [refiddle](http://refiddle.com/), [regex101](https://regex101.com/), [regexpal](http://www.regexpal.com/) (online regex testers)
 - [Implementing Regular Expressions](https://swtch.com/~rsc/regexp/)
   - [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html) in particular is well worth a read
 
@@ -158,6 +160,9 @@ See also the general topics below, especially data structures and algorithms.
 - [Stack](https://docs.haskellstack.org/en/stable/README) (Package manager with stable package tree snapshots and sandboxing)
 - [lens](http://lens.github.io)
   - [History of Lenses](https://github.com/ekmett/lens/wiki/History-of-Lenses)
+- [A History of Haskell: Being Lazy With Class](http://research.microsoft.com/en-us/um/people/simonpj/papers/history-of-haskell/) (a history of Haskell)
+- [Philip Wadler's monad papers](http://homepages.inf.ed.ac.uk/wadler/topics/monads.html)
+  - [Monads For Functional Programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
 - See the *Purely Functional Data Structures* and *Free Monads* sections in Data Structures above
 
 ### LISP
