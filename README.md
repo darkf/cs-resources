@@ -32,7 +32,7 @@ See also the general topics below, especially data structures and algorithms.
   - [Deforestation](https://en.wikipedia.org/wiki/Deforestation_(computer_science))
   
 
-## Decompilation
+### Decompilation
 - [Reverse Compilation Techniques](https://yurichev.com/mirrors/DCC_decompilation_thesis.pdf) (Cristina Cifuentes' rather in-depth thesis on decompilation)
 - [decomp](https://github.com/decomp/decomp)
 
