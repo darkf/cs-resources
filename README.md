@@ -118,7 +118,10 @@ See also the general topics below, especially data structures and algorithms.
 - [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [Typed Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays) for manipulating binary data / compact native arrays
+- [Web Storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API), [IndexedDB](https://en.wikipedia.org/wiki/Indexed_Database_API) -- offline in-browser databases
 - [TextEncoder](https://developer.mozilla.org/en-US/docs/Web/API/TextEncoder)/[TextDecoder](https://developer.mozilla.org/en-US/docs/Web/API/TextDecoder) APIs for text codecs
+- [asm.js](https://en.wikipedia.org/wiki/Asm.js) -- a subset of JavaScript (statically type inferrable, no GC) targetted at efficient machine translation/compilation
+- [Web Assembly](http://webassembly.org/) -- a text (S-expression based) and binary IR with goals similar to asm.js
 - [SIMD.js](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SIMD)
 - [Emscripten](https://github.com/kripken/emscripten), [Cheerp](http://leaningtech.com/cheerp/) -- C/C++/LLVM to JavaScript/asm.js/webasm compilers
 
