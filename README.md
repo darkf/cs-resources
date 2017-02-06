@@ -232,5 +232,6 @@ See also the general topics below, especially data structures and algorithms.
 
 - [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 - [On The Cruelty Of Really Teaching Computing Science](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html) (famous Dijkstra essay)
+- [Grace Hopper on Letterman](https://www.youtube.com/watch?v=1-vcErOPofQ)
 - [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar) (free book/essay by Eric Raymond)
 - [The Jargon File](http://www.catb.org/jargon/html)
