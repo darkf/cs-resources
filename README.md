@@ -91,8 +91,8 @@ See also the general topics below, especially data structures and algorithms.
 ### Regular Expressions (Regex)
 
 - [Regular-Expressions.info](http://regular-expressions.info) (tutorial and reference)
-- [refiddle](http://refiddle.com/), [regex101](https://regex101.com/), [regexpal](http://www.regexpal.com/) (online regex testers)
-- [Implementing Regular Expressions](https://swtch.com/~rsc/regexp/)
+- [refiddle](http://refiddle.com), [regex101](https://regex101.com), [regexpal](http://www.regexpal.com) (online regex testers)
+- [Implementing Regular Expressions](https://swtch.com/~rsc/regexp)
   - [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html) in particular is well worth a read
 
 ### IEEE 754 Floating Point
@@ -129,8 +129,8 @@ See also the general topics below, especially data structures and algorithms.
 - [\[xchg rax,rax\]](https://www.xorpd.net/pages/xchg_rax/snip_00.html) -- interesting/clever x86_64 snippets
 
 ### MIPS
-- [SPIM](http://spimsimulator.sourceforge.net/) (MIPS simulator; unfortunately no macros/pseudo-instructions)
-- [MARS](http://courses.missouristate.edu/KenVollmar/mars/) (another MIPS simulator, more featureful but requires Java)
+- [SPIM](http://spimsimulator.sourceforge.net) (MIPS simulator; unfortunately no macros/pseudo-instructions)
+- [MARS](http://courses.missouristate.edu/KenVollmar/mars) (another MIPS simulator, more featureful but requires Java)
 
 ## Language Specific
 
@@ -142,9 +142,9 @@ See also the general topics below, especially data structures and algorithms.
     - Qt
       - [PyQt](http://pyqt.sourceforge.net) (note that the free version is licensed under the GPL, act accordingly)
       - [PySide](https://wiki.qt.io/PySide) (LGPL but currently Qt 4 only)
-      - Tutorials: [PyQt4](http://zetcode.com/gui/pyqt4/), [PyQt5](http://zetcode.com/gui/pyqt5/), [PySide](http://zetcode.com/gui/pysidetutorial/)
+      - Tutorials: [PyQt4](http://zetcode.com/gui/pyqt4), [PyQt5](http://zetcode.com/gui/pyqt5), [PySide](http://zetcode.com/gui/pysidetutorial)
     - Tkinter
-      - [Tkinter tutorial](http://zetcode.com/gui/tkinter/)
+      - [Tkinter tutorial](http://zetcode.com/gui/tkinter)
       - [Graphical User Interfaces with Tk](https://docs.python.org/3/library/tk.html)
 
 ### JavaScript
@@ -159,6 +159,7 @@ See also the general topics below, especially data structures and algorithms.
 - [Web Assembly](http://webassembly.org/) -- a text (S-expression based) and binary IR with goals similar to asm.js
 - [SIMD.js](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SIMD)
 - [Emscripten](https://github.com/kripken/emscripten), [Cheerp](http://leaningtech.com/cheerp/) -- C/C++/LLVM to JavaScript/asm.js/webasm compilers
+- [Ramda](http://ramdajs.com) -- a library for functional programming in JavaScript; includes lenses, immutable data structures, and is generally much better than lodash.
 
 ### TypeScript
 - [Tutorial](https://www.typescriptlang.org/docs/tutorial.html)
@@ -180,14 +181,14 @@ See also the general topics below, especially data structures and algorithms.
   - [History of Lenses](https://github.com/ekmett/lens/wiki/History-of-Lenses)
   - [Lenses in Pictures](http://adit.io/posts/2013-07-22-lenses-in-pictures.html) (nice visual explanation)
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) (visual explanation of functors/applicative functors/monads)
-- [A History of Haskell: Being Lazy With Class](http://research.microsoft.com/en-us/um/people/simonpj/papers/history-of-haskell/) (a history of Haskell)
+- [A History of Haskell: Being Lazy With Class](http://research.microsoft.com/en-us/um/people/simonpj/papers/history-of-haskell) (a history of Haskell)
 - [Philip Wadler's monad papers](http://homepages.inf.ed.ac.uk/wadler/topics/monads.html)
   - [Monads For Functional Programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
 - See the *Purely Functional Data Structures* and *Free Monads* sections in Data Structures above
 
 ### LISP
 - [Recursive Functions of Symbolic Expressions and Their Computation by Machine](http://www-formal.stanford.edu/jmc/recursive.html) (seminal LISP paper by McCarthy)
-- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/) (also known as The Wizard Book)
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp) (also known as The Wizard Book)
 - [Lambda Papers](http://library.readscheme.org/page1.html)
 
 ### Erlang
@@ -208,9 +209,9 @@ See also the general topics below, especially data structures and algorithms.
 ## Tools
 
 ### Git
-- [git - the simple guide](http://rogerdudler.github.io/git-guide/)http://rogerdudler.github.io/git-guide/ (simple intro to git)
+- [git - the simple guide](http://rogerdudler.github.io/git-guide) (simple intro to git)
 - [Pro Git](https://git-scm.com/book/en/v2) (free book)
-- [Oh shit, git!](http://ohshitgit.com/) (for when you inevitably mess up)
+- [Oh shit, git!](http://ohshitgit.com) (for when you inevitably mess up)
 
 ## Design
 
@@ -220,5 +221,6 @@ See also the general topics below, especially data structures and algorithms.
 ## Culture
 
 - [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
-- [On The Cruelty Of Really Teaching Computing Science](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html) -- Dijkstra essay
-- [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) -- free book/essay by Eric Raymond
+- [On The Cruelty Of Really Teaching Computing Science](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html) (famous Dijkstra essay)
+- [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar) (free book/essay by Eric Raymond)
+- [The Jargon File](http://www.catb.org/jargon/html)
