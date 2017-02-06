@@ -15,6 +15,10 @@ See also the general topics below, especially data structures and algorithms.
 - [What Every Coder Should Know About Gamma](http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma)
 - [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) (CSG) -- boolean operations on meshes
 - [Fast Inverse Square Root](https://en.wikipedia.org/wiki/Fast_inverse_square_root) -- famous algorithm for calculating `1 / sqrt(x)`, used heavily for vector normalization (originally for lighting in Quake III Arena)
+- [Fix Your Timestep!](http://gafferongames.com/game-physics/fix-your-timestep) (or, how to do timesteps right. Read it.)
+- [Game Networking](http://gafferongames.com/networking-for-game-programmers)
+- [Red Blob Games](http://www.redblobgames.com/) (good visual resource on algorithms like A\*, hexagonal grids, etc.)
+- [Catmull-Rom splines](https://en.wikipedia.org/wiki/Centripetal_Catmull%E2%80%93Rom_spline) (splines that pass through all control points; good for games)
 
 - Game AI
   - [Behavior Trees](https://en.wikipedia.org/wiki/Behavior_tree)
@@ -122,6 +126,8 @@ See also the general topics below, especially data structures and algorithms.
 - [Branch Prediction](https://en.wikipedia.org/wiki/Branch_predictor)
 
 ### [Lisp Machines](https://en.wikipedia.org/wiki/Lisp_machine)
+
+### [Pong Story](http://pong-story.com)
 
 ### x86 / x86_64
 - [x86 Assembly Wikibook](https://en.wikibooks.org/wiki/X86_Assembly)
