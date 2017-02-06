@@ -133,6 +133,10 @@ See also the general topics below, especially data structures and algorithms.
 - [x86 Assembly Wikibook](https://en.wikibooks.org/wiki/X86_Assembly)
 - [x86 Instruction Set Reference](http://x86.renejeschke.de)
 - [\[xchg rax,rax\]](https://www.xorpd.net/pages/xchg_rax/snip_00.html) -- interesting/clever x86_64 snippets
+- [x86_64 AMD Programmer's Manual (Volume 2, System Programming)](http://support.amd.com/TechDocs/24593.pdf)
+- [x86_64 AMD Programmer's Manual (Volume 3, Instruction Reference)](http://support.amd.com/TechDocs/24594.pdf)
+- [x86_64 System V ABI](https://software.intel.com/sites/default/files/article/402129/mpx-linux64-abi.pdf)
+- [x86_64 ELF File Format](https://uclibc.org/docs/elf-64-gen.pdf)
 
 ### MIPS
 - [SPIM](http://spimsimulator.sourceforge.net) (MIPS simulator; unfortunately no macros/pseudo-instructions)
