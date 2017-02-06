@@ -39,6 +39,9 @@ See also the general topics below, especially data structures and algorithms.
   - [Deforestation](https://en.wikipedia.org/wiki/Deforestation_(computer_science))
   - [Dead Code Elimination](https://en.wikipedia.org/wiki/Dead_code_elimination) (via control flow analysis)
   
+- Talks
+  - [Growing A Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) (by Guy Steele Jr. of Scheme fame, on the challenges of designing languages that can scale)
+  
 
 ### Decompilation
 - [Reverse Compilation Techniques](https://yurichev.com/mirrors/DCC_decompilation_thesis.pdf) (Cristina Cifuentes' rather in-depth thesis on decompilation)
@@ -67,6 +70,7 @@ See also the general topics below, especially data structures and algorithms.
   - [Jump Point Search](https://en.wikipedia.org/wiki/Jump_point_search)
 - [Topological sorting](https://en.wikipedia.org/wiki/Topological_sorting) (for ordering nodes in a graph based on dependents)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (free book)
+- [Creating A Genetic Algorithm For Beginners](http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3)
 
 ### Data Structures
 - [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)
@@ -200,6 +204,13 @@ See also the general topics below, especially data structures and algorithms.
 - [Manual](https://doc.rust-lang.org/book)
 - [Documentation](https://doc.rust-lang.org/std)
 - [docs.rs](https://docs.rs) (Third-party package documentation)
+
+## Tools
+
+### Git
+- [git - the simple guide](http://rogerdudler.github.io/git-guide/)http://rogerdudler.github.io/git-guide/ (simple intro to git)
+- [Pro Git](https://git-scm.com/book/en/v2) (free book)
+- [Oh shit, git!](http://ohshitgit.com/) (for when you inevitably mess up)
 
 ## Design
 
