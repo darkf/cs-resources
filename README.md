@@ -225,6 +225,11 @@ See also the general topics below, especially data structures and algorithms.
 - [Language Reference](https://dlang.org/spec/spec.html)
 - [Library Reference](https://dlang.org/phobos/index.html)
 
+## Web
+
+### HTTP
+  - [HTTP Made Really Easy](https://www.jmarshall.com/easy/http) (simple introduction/guide to HTTP 1.0 and 1.1)
+
 ## Tools
 
 ### Git
