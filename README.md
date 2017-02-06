@@ -191,6 +191,10 @@ See also the general topics below, especially data structures and algorithms.
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp) (also known as The Wizard Book)
 - [Lambda Papers](http://library.readscheme.org/page1.html)
 
+### Racket
+- [Racket Guide](https://docs.racket-lang.org/guide/intro.html)
+- [Realm of Racket](http://realmofracket.com) (commercial book)
+
 ### Erlang
 - [Learn You Some Erlang for Great Good!](http://learnyousomeerlang.com) (free book)
 - [Documentation](https://www.erlang.org/docs)
