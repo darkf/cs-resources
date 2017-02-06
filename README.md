@@ -66,6 +66,7 @@ See also the general topics below, especially data structures and algorithms.
   - [D* Lite](https://en.wikipedia.org/wiki/D*#D.2A_Lite)
   - [Jump Point Search](https://en.wikipedia.org/wiki/Jump_point_search)
 - [Topological sorting](https://en.wikipedia.org/wiki/Topological_sorting) (for ordering nodes in a graph based on dependents)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (free book)
 
 ### Data Structures
 - [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)
