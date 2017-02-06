@@ -92,6 +92,12 @@ See also the general topics below, especially data structures and algorithms.
 - [Blockchain 101](https://anders.com/blockchain) (a good video tutorial and demonstration of [blockchains](https://en.wikipedia.org/wiki/Blockchain_(database)))
 - [Distributed Hash Table](https://en.wikipedia.org/wiki/Distributed_hash_table) (self-explanatory; notably used in BitTorrent)
 
+- Memory Allocation
+  - [Free Lists](https://en.wikipedia.org/wiki/Free_list)
+  - [Buddy memory allocation](https://en.wikipedia.org/wiki/Buddy_memory_allocation)
+  - [Dynamic Memory Allocation: Advanced Concepts](http://www.cs.cmu.edu/afs/cs/academic/class/15213-s11/www/lectures/20-allocation-advanced.pdf) (slides; includes Segregated Free Lists)
+  - [Reference Counting](https://en.wikipedia.org/wiki/Reference_counting) (a simple form of garbage collection)
+
 ### Regular Expressions (Regex)
 
 - [Regular-Expressions.info](http://regular-expressions.info) (tutorial and reference)
