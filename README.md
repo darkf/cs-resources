@@ -198,7 +198,13 @@ See also the general topics below, especially data structures and algorithms.
 - [Documentation](https://doc.rust-lang.org/std)
 - [docs.rs](https://docs.rs) (Third-party package documentation)
 
+## Design
+
+- [Dark Patterns](http://darkpatterns.org) (sets of subversive and potentially malicious design patterns)
+- [Motherfucking Website](http://motherfuckingwebsite.com) -> [Better Motherfucking Website](http://bettermotherfuckingwebsite.com) -> [Best Motherfucking Website](https://bestmotherfucking.website)
+
 ## Culture
 
+- [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 - [On The Cruelty Of Really Teaching Computing Science](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html) -- Dijkstra essay
 - [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) -- free book/essay by Eric Raymond
