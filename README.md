@@ -216,6 +216,11 @@ See also the general topics below, especially data structures and algorithms.
 - [Documentation](https://doc.rust-lang.org/std)
 - [docs.rs](https://docs.rs) (Third-party package documentation)
 
+### D
+- [Programming in D](http://ddili.org/ders/d.en/index.html) (free book / tutorial / reference)
+- [Language Reference](https://dlang.org/spec/spec.html)
+- [Library Reference](https://dlang.org/phobos/index.html)
+
 ## Tools
 
 ### Git
