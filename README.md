@@ -236,6 +236,9 @@ See also the general topics below, especially data structures and algorithms.
 ### HTTP
   - [HTTP Made Really Easy](https://www.jmarshall.com/easy/http) (simple introduction/guide to HTTP 1.0 and 1.1)
 
+### Optimization
+  - [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (free book)
+
 ## Tools
 
 ### Git
