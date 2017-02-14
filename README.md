@@ -181,6 +181,7 @@ See also the general topics below, especially data structures and algorithms.
 - [Tutorial](https://www.typescriptlang.org/docs/tutorial.html)
 - [Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 - [Compiler Options Reference](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
+- [TypeSearch](http://microsoft.github.io/TypeSearch) (searches for type definitions)
 
 ### CSS
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
