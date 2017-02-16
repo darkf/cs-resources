@@ -232,6 +232,9 @@ See also the general topics below, especially data structures and algorithms.
 - [Language Reference](https://dlang.org/spec/spec.html)
 - [Library Reference](https://dlang.org/phobos/index.html)
 
+### Fortran
+- [Fortran on the IBM 704](https://www.fortran.com/FortranForTheIBM704.pdf) (manual for the original Fortran for the IBM 704, from 1957)
+
 ## Web
 
 ### HTTP
