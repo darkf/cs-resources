@@ -189,6 +189,9 @@ See also the general topics below, especially data structures and algorithms.
 ### CSS
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
+### Java
+- [Interface Pollution in the JDK 8](http://archive.is/PeQng)
+
 ### Lua
 - [LuaJIT](http://luajit.org) (fast JITed Lua interpreter)
 - [New Garbage Collector](http://wiki.luajit.org/New-Garbage-Collector) (design doc for LuaJIT 3's future GC)
