@@ -150,6 +150,9 @@ See also the general topics below, especially data structures and algorithms.
 
 ## Language Specific
 
+### General / Multi-Language
+- [Learn X in Y Minutes](https://learnxinyminutes.com) (short intros/walkthroughs of languages via demonstration code with comments)
+
 
 ### Python
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) (free book)
@@ -185,6 +188,11 @@ See also the general topics below, especially data structures and algorithms.
 
 ### CSS
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+### Lua
+- [LuaJIT](http://luajit.org) (fast JITed Lua interpreter)
+- [New Garbage Collector](http://wiki.luajit.org/New-Garbage-Collector) (design doc for LuaJIT 3's future GC)
+- [Love](https://love2d.org) (a standalone game framework in Lua using LuaJit)
 
 ### Haskell
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com) (free book)
@@ -262,3 +270,5 @@ See also the general topics below, especially data structures and algorithms.
 - [Grace Hopper on Letterman](https://www.youtube.com/watch?v=1-vcErOPofQ)
 - [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar) (free book/essay by Eric Raymond)
 - [The Jargon File](http://www.catb.org/jargon/html)
+- [Kill -9 by Monzy](https://www.youtube.com/watch?v=Fow7iUaKrq4) (a very dense CS-laden nerdrap song performed live at Stanford)
+- [Land of Lisp - The Music Video](https://www.youtube.com/watch?v=HM1Zb3xmvMc)
