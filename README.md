@@ -52,13 +52,14 @@ See also the general topics below, especially data structures and algorithms.
 - [decomp](https://github.com/decomp/decomp)
 
 ### Parsing
-- [Pratt parsers](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy)
+- [Pratt parsers](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy) (Recursive Descent + Top Down operator precedence parsing = Pratt parsers)
 - [PEG grammars, Packrat parsers](https://en.wikipedia.org/wiki/Parsing_expression_grammar)
 - [Top-Down operator precedence parsing](http://eli.thegreenplace.net/2010/01/02/top-down-operator-precedence-parsing)
-- [Earley parsers](https://en.wikipedia.org/wiki/Earley_parser)
-- [Shunting-yard algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm) for easy infix expression parsing (infix to tree/prefix/postfix)
-- [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
-- [Monadic Parsing in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pearl.pdf)
+- [Earley parsers](https://en.wikipedia.org/wiki/Earley_parser) (can parse any grammar)
+- [Shunting-yard algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm) (Dijkstra's algorithm for easy infix expression parsing (infix to tree/prefix/postfix))
+- [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) (aka postfix notation)
+- [Monadic Parsing in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pearl.pdf) (parsing with monadic combinators)
+- [Sexy Lexing with Python](https://web.archive.org/web/20140428082426/http://www.evanfosmark.com/2009/02/sexy-lexing-with-python)
 
 ### Algorithms
 - [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (also known as CLRS, a famous algorithms book)
