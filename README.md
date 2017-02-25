@@ -274,5 +274,6 @@ See also the general topics below, especially data structures and algorithms.
 - [Grace Hopper on Letterman](https://www.youtube.com/watch?v=1-vcErOPofQ)
 - [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar) (free book/essay by Eric Raymond)
 - [The Jargon File](http://www.catb.org/jargon/html)
+- [Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html) (essay on Java-style OOP by Steve Yegge)
 - [Kill -9 by Monzy](https://www.youtube.com/watch?v=Fow7iUaKrq4) (a very dense CS-laden nerdrap song performed live at Stanford)
 - [Land of Lisp - The Music Video](https://www.youtube.com/watch?v=HM1Zb3xmvMc)
