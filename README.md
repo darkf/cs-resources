@@ -112,6 +112,9 @@ See also the general topics below, especially data structures and algorithms.
 - http://0.30000000000000004.com
 - http://floating-point-gui.de
 
+## Cryptography
+- [Lifetimes of cryptographic hash functions](https://valerieaurora.org/hash.html)
+
 ## Emulation
 - [How To Write a Computer Emulator](http://fms.komkon.org/EMUL8/HOWTO.html) (older Emulation FAQ)
 - [GameBoy Emulation in JavaScript](http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU) (a tutorial)
