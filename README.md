@@ -36,6 +36,8 @@ See also the general topics below, especially data structures and algorithms.
 - [Official LLVM Tutorial](http://llvm.org/docs/tutorial/) (implements a compiler for a tiny toy language called Kaleidoscope); [Haskell](http://www.stephendiehl.com/llvm/) and [OCaml](http://llvm.org/docs/tutorial/OCamlLangImpl1.html) versions also available. 
 - [Control Flow Graphs/Analysis](https://en.wikipedia.org/wiki/Control_flow_graph)
 - [Data Flow Graphs/Analysis](https://en.wikipedia.org/wiki/Data-flow_analysis)
+- [Pointer Tagging](https://en.wikipedia.org/wiki/Tagged_pointer) (storing information in unused bits of pointers)
+- [NaN boxing](http://syntheti.cc/article/nan-boxing) (using bits of IEEE 754 floats for tagging, similar to pointer tagging)
 
 - Optimization
   - [Constant Folding](https://en.wikipedia.org/wiki/Constant_folding) (basic optimization by statically evaluating constants)
