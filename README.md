@@ -39,6 +39,12 @@ See also the general topics below, especially data structures and algorithms.
 - [Pointer Tagging](https://en.wikipedia.org/wiki/Tagged_pointer) (storing information in unused bits of pointers)
 - [NaN boxing](http://syntheti.cc/article/nan-boxing) (using bits of IEEE 754 floats for tagging, similar to pointer tagging)
 - [Turbofan wiki](https://github.com/v8/v8/wiki/TurboFan) (contains technical design docs of V8's new TurboFan compiler)
+- [Continuation-Passing Style](https://en.wikipedia.org/wiki/Continuation-passing_style) (aka CPS)
+
+- Intermediate Representations
+  - [Three Address Code](https://en.wikipedia.org/wiki/Three-address_code)
+  - [Static Single Assignment](https://en.wikipedia.org/wiki/Static_single_assignment_form) (aka SSA; registers are only assigned once, makes analyses such as CFG/DFA generation easier)
+  - [FIRM](http://pp.ipd.kit.edu/firm) (graph-based IR; [related paper](http://compilers.cs.uni-saarland.de/papers/lkh15_cgo.pdf))
 
 - Optimization
   - [Constant Folding](https://en.wikipedia.org/wiki/Constant_folding) (basic optimization by statically evaluating constants)
