@@ -265,6 +265,9 @@ See also the general topics below, especially data structures and algorithms.
 - [Pro Git](https://git-scm.com/book/en/v2) (free book)
 - [Oh shit, git!](http://ohshitgit.com) (for when you inevitably mess up)
 
+### Make
+- [Make files not war](https://fabianstumpf.de/articles/makefiles.htm) (tutorial on make)
+
 ## Design
 
 - [Dark Patterns](http://darkpatterns.org) (sets of subversive and potentially malicious design patterns)
