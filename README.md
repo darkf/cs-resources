@@ -38,6 +38,7 @@ See also the general topics below, especially data structures and algorithms.
 - [Data Flow Graphs/Analysis](https://en.wikipedia.org/wiki/Data-flow_analysis)
 - [Pointer Tagging](https://en.wikipedia.org/wiki/Tagged_pointer) (storing information in unused bits of pointers)
 - [NaN boxing](http://syntheti.cc/article/nan-boxing) (using bits of IEEE 754 floats for tagging, similar to pointer tagging)
+- [Turbofan wiki](https://github.com/v8/v8/wiki/TurboFan) (contains technical design docs of V8's new TurboFan compiler)
 
 - Optimization
   - [Constant Folding](https://en.wikipedia.org/wiki/Constant_folding) (basic optimization by statically evaluating constants)
