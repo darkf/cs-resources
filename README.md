@@ -259,6 +259,7 @@ See also the general topics below, especially data structures and algorithms.
 
 ### Fortran
 - [Fortran on the IBM 704](https://www.fortran.com/FortranForTheIBM704.pdf) (manual for the original Fortran for the IBM 704, from 1957)
+- [The History of FORTRAN](https://www.obliquity.com/computer/fortran/history.html)
 
 ## Web
 
