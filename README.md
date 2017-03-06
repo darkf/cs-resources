@@ -126,6 +126,11 @@ See also the general topics below, especially data structures and algorithms.
 ## Cryptography
 - [Lifetimes of cryptographic hash functions](https://valerieaurora.org/hash.html)
 
+### Common Ciphers
+- [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher) (alphabet rotation by a key; [ROT-13](https://en.wikipedia.org/wiki/ROT13) is a special case)
+- [Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher) 
+- [XOR cipher](https://en.wikipedia.org/wiki/XOR_cipher) (XORing plaintext with a key)
+
 ## Emulation
 - [How To Write a Computer Emulator](http://fms.komkon.org/EMUL8/HOWTO.html) (older Emulation FAQ)
 - [GameBoy Emulation in JavaScript](http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU) (a tutorial)
