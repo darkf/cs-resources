@@ -125,6 +125,9 @@ See also the general topics below, especially data structures and algorithms.
 
 ## Cryptography
 - [Lifetimes of cryptographic hash functions](https://valerieaurora.org/hash.html)
+- [Public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
+- [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) (method of secure public key exchange)
+- [Elliptic curve cryptography](https://en.wikipedia.org/wiki/Elliptic_curve_cryptography)
 
 ### Common Ciphers
 - [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher) (alphabet rotation by a key; [ROT-13](https://en.wikipedia.org/wiki/ROT13) is a special case)
