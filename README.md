@@ -115,6 +115,7 @@ See also the general topics below, especially data structures and algorithms.
 - [refiddle](http://refiddle.com), [regex101](https://regex101.com), [regexpal](http://www.regexpal.com) (online regex testers)
 - [Implementing Regular Expressions](https://swtch.com/~rsc/regexp)
   - [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html) in particular is well worth a read
+- [Matching regular expressions with derivatives](http://matt.might.net/articles/implementation-of-regular-expression-matching-in-scheme-with-derivatives)
 
 ### IEEE 754 Floating Point
 
