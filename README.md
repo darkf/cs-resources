@@ -61,6 +61,7 @@ See also the general topics below, especially data structures and algorithms.
 - [decomp](https://github.com/decomp/decomp)
 
 ### Parsing
+- [Chomsky Hierarchy](https://en.wikipedia.org/wiki/Chomsky_hierarchy) (hierarchy of types of grammars)
 - [Pratt parsers](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy) (Recursive Descent + Top Down operator precedence parsing = Pratt parsers)
 - [PEG grammars, Packrat parsers](https://en.wikipedia.org/wiki/Parsing_expression_grammar)
 - [Top-Down operator precedence parsing](http://eli.thegreenplace.net/2010/01/02/top-down-operator-precedence-parsing)
