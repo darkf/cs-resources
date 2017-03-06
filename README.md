@@ -86,7 +86,7 @@ See also the general topics below, especially data structures and algorithms.
 - [Topological sorting](https://en.wikipedia.org/wiki/Topological_sorting) (for ordering nodes in a graph based on dependents)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (free book)
 - [Creating A Genetic Algorithm For Beginners](http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3)
-
+- [Shor's algorithm](https://en.wikipedia.org/wiki/Shor's_algorithm) (quantum computer algorithm for integer factorization in polynomial time)
 ### Data Structures
 - [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)
 - van Laarhoven lenses (see the Haskell section on `lens`)
