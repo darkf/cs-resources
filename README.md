@@ -65,7 +65,7 @@ See also the general topics below, especially data structures and algorithms.
 - [Pratt parsers](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy) (Recursive Descent + Top Down operator precedence parsing = Pratt parsers)
 - [PEG grammars, Packrat parsers](https://en.wikipedia.org/wiki/Parsing_expression_grammar)
 - [Top-Down operator precedence parsing](http://eli.thegreenplace.net/2010/01/02/top-down-operator-precedence-parsing)
-- [Earley parsers](https://en.wikipedia.org/wiki/Earley_parser) (can parse any grammar)
+- [Earley parsers](https://en.wikipedia.org/wiki/Earley_parser) (can parse any context-free grammar)
 - [Shunting-yard algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm) (Dijkstra's algorithm for easy infix expression parsing (infix to tree/prefix/postfix))
 - [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) (aka postfix notation)
 - [Monadic Parsing in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pearl.pdf) (parsing with monadic combinators)
