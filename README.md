@@ -13,8 +13,8 @@ See also the general topics below, especially data structures and algorithms.
   - [A simple high-level explanation](http://gamedev.stackexchange.com/a/31491)
   - [Evolve Your Hierarchy](http://cowboyprogramming.com/2007/01/05/evolve-your-heirachy) (one of the earlier mainstream ECS papers)
 - [What Every Coder Should Know About Gamma](http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma)
-- [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) (CSG) -- boolean operations on meshes
-- [Fast Inverse Square Root](https://en.wikipedia.org/wiki/Fast_inverse_square_root) -- famous algorithm for calculating `1 / sqrt(x)`, used heavily for vector normalization (originally for lighting in Quake III Arena)
+- [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) (CSG -- boolean operations on meshes)
+- [Fast Inverse Square Root](https://en.wikipedia.org/wiki/Fast_inverse_square_root) (famous algorithm for calculating `1 / sqrt(x)`, used heavily for vector normalization (originally for lighting in Quake III Arena))
 - [Fix Your Timestep!](http://gafferongames.com/game-physics/fix-your-timestep) (or, how to do timesteps right. Read it.)
 - [Game Networking](http://gafferongames.com/networking-for-game-programmers)
 - [Red Blob Games](http://www.redblobgames.com/) (good visual resource on algorithms like A\*, hexagonal grids, etc.)
@@ -48,7 +48,7 @@ See also the general topics below, especially data structures and algorithms.
 
 - Optimization
   - [Constant Folding](https://en.wikipedia.org/wiki/Constant_folding) (basic optimization by statically evaluating constants)
-  - [Automatic Vectorization](https://en.wikipedia.org/wiki/Automatic_vectorization) -- automatically convert scalar code to vectorized (SIMD) code
+  - [Automatic Vectorization](https://en.wikipedia.org/wiki/Automatic_vectorization) (automatically convert scalar code to vectorized (SIMD) code)
   - [Deforestation](https://en.wikipedia.org/wiki/Deforestation_(computer_science))
   - [Dead Code Elimination](https://en.wikipedia.org/wiki/Dead_code_elimination) (via control flow analysis)
   
@@ -142,8 +142,8 @@ See also the general topics below, especially data structures and algorithms.
 ## Interesting Operating Systems
 
 - [NixOS](https://nixos.org) (see also [Nix](https://nixos.org/nix), its more portable package manager) -- an OS built around Nix, a referentially transparent package manager. Allows you to build an entire OS setup around a single config file, with multiple profiles and no package dependency hell.
-- [MenuetOS](http://menuetos.net) -- fairly modern OS written in x86_64 assembly
-- [MINIX](https://en.wikipedia.org/wiki/MINIX) -- the teaching OS
+- [MenuetOS](http://menuetos.net) (a fairly modern OS written in x86_64 assembly)
+- [MINIX](https://en.wikipedia.org/wiki/MINIX) (a popular teaching OS)
 
 ## Computer Architectures
 
@@ -197,11 +197,11 @@ See also the general topics below, especially data structures and algorithms.
 - [Typed Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays) for manipulating binary data / compact native arrays
 - [Web Storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API), [IndexedDB](https://en.wikipedia.org/wiki/Indexed_Database_API) -- offline in-browser databases
 - [TextEncoder](https://developer.mozilla.org/en-US/docs/Web/API/TextEncoder)/[TextDecoder](https://developer.mozilla.org/en-US/docs/Web/API/TextDecoder) APIs for text codecs
-- [asm.js](https://en.wikipedia.org/wiki/Asm.js) -- a subset of JavaScript (statically type inferrable, no GC) targetted at efficient machine translation/compilation
-- [Web Assembly](http://webassembly.org/) -- a text (S-expression based) and binary IR with goals similar to asm.js
+- [asm.js](https://en.wikipedia.org/wiki/Asm.js) (a subset of JavaScript (statically type inferrable, no GC) targetted at efficient machine translation/compilation)
+- [Web Assembly](http://webassembly.org/) (a text (S-expression based) and binary IR with goals similar to asm.js)
 - [SIMD.js](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SIMD)
 - [Emscripten](https://github.com/kripken/emscripten), [Cheerp](http://leaningtech.com/cheerp/) -- C/C++/LLVM to JavaScript/asm.js/webasm compilers
-- [Ramda](http://ramdajs.com) -- a library for functional programming in JavaScript; includes lenses, immutable data structures, and is generally much better than lodash.
+- [Ramda](http://ramdajs.com) (a library for functional programming in JavaScript; includes lenses, immutable data structures, etc. and is generally better than [lodash](https://lodash.com))
 
 ### TypeScript
 - [Tutorial](https://www.typescriptlang.org/docs/tutorial.html)
