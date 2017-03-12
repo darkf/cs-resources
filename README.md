@@ -119,6 +119,7 @@ See also the general topics below, especially data structures and algorithms.
 - [Implementing Regular Expressions](https://swtch.com/~rsc/regexp)
   - [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html) in particular is well worth a read
 - [Matching regular expressions with derivatives](http://matt.might.net/articles/implementation-of-regular-expression-matching-in-scheme-with-derivatives)
+- [The true power of regular expressions](https://nikic.github.io/2012/06/15/The-true-power-of-regular-expressions.html) (on non-regular regular expression matchers, e.g. PCRE)
 
 ### IEEE 754 Floating Point
 
