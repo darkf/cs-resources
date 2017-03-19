@@ -126,6 +126,7 @@ See also the general topics below, especially data structures and algorithms.
 - What Every Computer Scientist Should Know About Floating-Point Arithmetic [HTML reprint](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) / [PDF](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
 - http://0.30000000000000004.com
 - http://floating-point-gui.de
+- [Unit in Last Place](https://en.wikipedia.org/wiki/Unit_in_the_last_place) (measure of floating point precision)
 
 ## Cryptography
 - [Lifetimes of cryptographic hash functions](https://valerieaurora.org/hash.html)
