@@ -246,6 +246,7 @@ See also the general topics below, especially data structures and algorithms.
 ### LISP
 - [Recursive Functions of Symbolic Expressions and Their Computation by Machine](http://www-formal.stanford.edu/jmc/recursive.html) (seminal LISP paper by McCarthy)
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp) (also known as The Wizard Book)
+- [The Art of the Metaobject Protocol](https://en.wikipedia.org/wiki/The_Art_of_the_Metaobject_Protocol) (commercial book on the CLOS metaobject protocol for metaprogramming)
 - [Lambda Papers](http://library.readscheme.org/page1.html)
 
 ### Racket
