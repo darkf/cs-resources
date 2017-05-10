@@ -207,6 +207,8 @@ See also the general topics below, especially data structures and algorithms.
 - [SIMD.js](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SIMD)
 - [Emscripten](https://github.com/kripken/emscripten), [Cheerp](http://leaningtech.com/cheerp/) -- C/C++/LLVM to JavaScript/asm.js/webasm compilers
 - [Ramda](http://ramdajs.com) (a library for functional programming in JavaScript; includes lenses, immutable data structures, etc. and is generally better than [lodash](https://lodash.com))
+- [proxy-fun](https://github.com/mikaelbr/proxy-fun) (list of resources related to the ES6 `Proxy` interface)
+- [Transferable Objects: Lightning Fast!](https://developers.google.com/web/updates/2011/12/Transferable-Objects-Lightning-Fast) (shows new interface for movable zero-copy buffers across Web Workers)
 
 ### TypeScript
 - [Tutorial](https://www.typescriptlang.org/docs/tutorial.html)
