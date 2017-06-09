@@ -293,6 +293,10 @@ See also the general topics below, especially data structures and algorithms.
   - [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
   - [How Browser Works](https://arvindr21.github.io/howBrowserWorks/#/) (slides)
   
+  - Gecko
+    - [Mozilla's Layout Engine](http://www-archive.mozilla.org/newlayout/doc/layout-2006-12-14/master.xhtml) (slides)
+    - [Gecko Overview](https://wiki.mozilla.org/Gecko%3aOverview)
+  
   - WebKit
     - [WebCore Rendering I – The Basics](https://webkit.org/blog/114/webcore-rendering-i-the-basics)
     - [WebCore Rendering II – Blocks and Inlines](https://webkit.org/blog/115/webcore-rendering-ii-blocks-and-inlines)
@@ -305,6 +309,7 @@ See also the general topics below, especially data structures and algorithms.
     - [Rendering in WebKit](https://www.youtube.com/watch?v=RVnARGhhs9w) (video talk)
     
 ### Layout
+  - [Learn CSS Layout](http://book.mixu.net/css)
   - [Everything You Never Knew About CSS Floats](https://designshack.net/articles/css/everything-you-never-knew-about-css-floats)
   - [Rendering: repaint, reflow/relayout, restyle](https://www.phpied.com/rendering-repaint-reflowrelayout-restyle)
   
