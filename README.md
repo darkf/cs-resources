@@ -293,6 +293,8 @@ See also the general topics below, especially data structures and algorithms.
   - [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
   - [How Browser Works](https://arvindr21.github.io/howBrowserWorks/#/) (slides)
   - [Faster HTML and CSS: Layout Engine Internals for Web Developers](https://www.youtube.com/watch?v=a2_6bGNZ7bA) (video talk)
+  - [How browser engines work?](https://blog.mozilla.org/webdev/2012/05/04/how-browser-engines-work) (video talk + slides)
+  - [How Browsers Work - Part 1 - Architecture](https://web.archive.org/web/20141003143859/http://vineetgupta.com/blog/how-browsers-work-part-1-architecture) (archived)
   
   - Gecko
     - [Mozilla's Layout Engine](http://www-archive.mozilla.org/newlayout/doc/layout-2006-12-14/master.xhtml) (slides)
