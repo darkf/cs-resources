@@ -288,7 +288,8 @@ See also the general topics below, especially data structures and algorithms.
   - [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (free book)
 
 ### Browser Engines
-  - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork)
+  - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork) ([original](http://taligarsiel.com/Projects/howbrowserswork1.htm))
+  - [How browsers work internally](https://vimeo.com/44182484) (video talk)
   - [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
   - [How Browser Works](https://arvindr21.github.io/howBrowserWorks/#/) (slides)
   
@@ -302,7 +303,11 @@ See also the general topics below, especially data structures and algorithms.
     - [How WebKit Loads a Web Page](https://web.archive.org/web/20160513040829/https://webkit.org/blog/1188/how-webkit-loads-a-web-page) (archived)
     - [How WebKit Works](https://docs.google.com/presentation/d/1ZRIQbUKw9Tf077odCh66OrrwRIVNLvI_nhLm2Gi__F0/embed?start=false&loop=false&delayms=3000&slide=id.p) (slides)
     - [Rendering in WebKit](https://www.youtube.com/watch?v=RVnARGhhs9w) (video talk)
-
+    
+### Layout
+  - [Everything You Never Knew About CSS Floats](https://designshack.net/articles/css/everything-you-never-knew-about-css-floats)
+  - [Rendering: repaint, reflow/relayout, restyle](https://www.phpied.com/rendering-repaint-reflowrelayout-restyle)
+  
 ## Tools
 
 ### Git
