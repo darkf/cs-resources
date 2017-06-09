@@ -197,6 +197,8 @@ See also the general topics below, especially data structures and algorithms.
 ### JavaScript
 - [Eloquent Javascript](http://eloquentjavascript.net/) (free book)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) (series of free books)
+- [You Might Not Need jQuery](http://youmightnotneedjquery.com) (jQuery -> Vanilla JS)
+
 - [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [Typed Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays) for manipulating binary data / compact native arrays
@@ -310,6 +312,7 @@ See also the general topics below, especially data structures and algorithms.
     - [How WebKit Loads a Web Page](https://web.archive.org/web/20160513040829/https://webkit.org/blog/1188/how-webkit-loads-a-web-page) (archived)
     - [How WebKit Works](https://docs.google.com/presentation/d/1ZRIQbUKw9Tf077odCh66OrrwRIVNLvI_nhLm2Gi__F0/embed?start=false&loop=false&delayms=3000&slide=id.p) (slides)
     - [Rendering in WebKit](https://www.youtube.com/watch?v=RVnARGhhs9w) (video talk)
+    - [WebKit For Developers](https://www.paulirish.com/2013/webkit-for-developers)
     
 ### Layout
   - [Learn CSS Layout](http://book.mixu.net/css)
