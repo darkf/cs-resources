@@ -287,6 +287,14 @@ See also the general topics below, especially data structures and algorithms.
 ### Optimization
   - [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (free book)
 
+### Browser Engines
+  - WebKit
+    - [WebCore Rendering I – The Basics](https://webkit.org/blog/114/webcore-rendering-i-the-basics)
+    - [WebCore Rendering II – Blocks and Inlines](https://webkit.org/blog/115/webcore-rendering-ii-blocks-and-inlines)
+    - [WebCore Rendering III – Layout Basics](https://webkit.org/blog/116/webcore-rendering-iii-layout-basics)
+    - [WebCore Rendering IV – Absolute/Fixed and Relative Positioning](https://webkit.org/blog/117/webcore-rendering-iv-absolutefixed-and-relative-positioning)
+    - [WebCore Rendering V – Floats](https://webkit.org/blog/118/webcore-rendering-v-floats)
+
 ## Tools
 
 ### Git
