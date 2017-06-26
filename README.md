@@ -352,3 +352,4 @@ See also the general topics below: especially computer graphics, data structures
 - [Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html) (essay on Java-style OOP by Steve Yegge)
 - [Kill -9 by Monzy](https://www.youtube.com/watch?v=Fow7iUaKrq4) (a very dense CS-laden nerdrap song performed live at Stanford)
 - [Land of Lisp - The Music Video](https://www.youtube.com/watch?v=HM1Zb3xmvMc)
+- [Sorting algorithms demonstrated with Hungarian folk dances](https://www.youtube.com/user/AlgoRythmics/videos)
