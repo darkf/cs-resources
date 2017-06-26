@@ -6,15 +6,12 @@
 
 
 ### Game Development
-See also the general topics below, especially data structures and algorithms.
+See also the general topics below: especially computer graphics, data structures, and algorithms.
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/) (free book on some design patterns possibly useful in games)
 - [Invent Your Own Computer Games with Python](https://inventwithpython.com/chapters/), [Making Games with Python & Pygame](https://inventwithpython.com/pygame/chapters/) (free books)
 - [Entity Component Systems](https://en.wikipedia.org/wiki/Entity%E2%80%93component%E2%80%93system)
   - [A simple high-level explanation](http://gamedev.stackexchange.com/a/31491)
   - [Evolve Your Hierarchy](http://cowboyprogramming.com/2007/01/05/evolve-your-heirachy) (one of the earlier mainstream ECS papers)
-- [What Every Coder Should Know About Gamma](http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma)
-- [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) (CSG -- boolean operations on meshes)
-- [Fast Inverse Square Root](https://en.wikipedia.org/wiki/Fast_inverse_square_root) (famous algorithm for calculating `1 / sqrt(x)`, used heavily for vector normalization (originally for lighting in Quake III Arena))
 - [Fix Your Timestep!](http://gafferongames.com/game-physics/fix-your-timestep) (or, how to do timesteps right. Read it.)
 - [Game Networking](http://gafferongames.com/networking-for-game-programmers)
 - [Red Blob Games](http://www.redblobgames.com/) (good visual resource on algorithms like A\*, hexagonal grids, etc.)
@@ -23,6 +20,14 @@ See also the general topics below, especially data structures and algorithms.
 - Game AI
   - [Behavior Trees](https://en.wikipedia.org/wiki/Behavior_tree)
   - [Boids](https://en.wikipedia.org/wiki/Boids) (flocking behavior)
+  
+### Computer Graphics
+- [Metaballs](https://en.wikipedia.org/wiki/Metaballs)
+  - [Metaballs and WebGL](http://jamie-wong.com/2016/07/06/metaballs-and-webgl)
+  - [Metaballs and Marching Squares](http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares)
+- [What Every Coder Should Know About Gamma](http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma)
+- [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) (CSG -- boolean operations on meshes)
+- [Fast Inverse Square Root](https://en.wikipedia.org/wiki/Fast_inverse_square_root) (famous algorithm for calculating `1 / sqrt(x)`, used heavily for vector normalization (originally for lighting in Quake III Arena))
 
 ### Programming Language Theory and Compilers/Interpreters
 - [The Programming Languages Zoo](http://plzoo.andrej.com)
