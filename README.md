@@ -28,6 +28,7 @@ See also the general topics below: especially computer graphics, data structures
 - [What Every Coder Should Know About Gamma](http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma)
 - [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) (CSG -- boolean operations on meshes)
 - [Fast Inverse Square Root](https://en.wikipedia.org/wiki/Fast_inverse_square_root) (famous algorithm for calculating `1 / sqrt(x)`, used heavily for vector normalization (originally for lighting in Quake III Arena))
+- [How OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki) (lessons on creating a software rasterizer)
 
 ### Programming Language Theory and Compilers/Interpreters
 - [The Programming Languages Zoo](http://plzoo.andrej.com)
