@@ -149,6 +149,7 @@ See also the general topics below: especially computer graphics, data structures
 - [How To Write a Computer Emulator](http://fms.komkon.org/EMUL8/HOWTO.html) (older Emulation FAQ)
 - [GameBoy Emulation in JavaScript](http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU) (a tutorial)
 - [Statically Recompiling NES Games into Native Executables with LLVM and Go](http://andrewkelley.me/post/jamulator.html) (an attempt at statically recompiling NES binaries)
+- [Accuracy takes power: one man’s 3GHz quest to build a perfect SNES emulator](https://arstechnica.com/gaming/2011/08/accuracy-takes-power-one-mans-3ghz-quest-to-build-a-perfect-snes-emulator) (why emulators require fast computers)
 
 ## Interesting Operating Systems
 
