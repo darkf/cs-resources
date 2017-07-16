@@ -38,6 +38,7 @@ See also the general topics below: especially computer graphics, data structures
 - [Hindley-Milner explanation](http://akgupta.ca/blog/2013/05/14/so-you-still-dont-understand-hindley-milner)
 - [Modern Compiler Implementation in ML](https://www.cs.princeton.edu/~appel/modern/ml) (commercial book; variants in C and Java are available, but aren't as good)
 - [Compilers: Principles, Techniques, and Tools](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools) (aka The Dragon Book)
+- [Compiling with Continuations](https://www.amazon.com/Compiling-Continuations-Andrew-W-Appel/dp/052103311X)
 - [Write You A Haskell](http://dev.stephendiehl.com/fun) (currently unfinished)
 - [Official LLVM Tutorial](http://llvm.org/docs/tutorial/) (implements a compiler for a tiny toy language called Kaleidoscope); [Haskell](http://www.stephendiehl.com/llvm/) and [OCaml](http://llvm.org/docs/tutorial/OCamlLangImpl1.html) versions also available. 
 - [Control Flow Graphs/Analysis](https://en.wikipedia.org/wiki/Control_flow_graph)
@@ -45,7 +46,12 @@ See also the general topics below: especially computer graphics, data structures
 - [Pointer Tagging](https://en.wikipedia.org/wiki/Tagged_pointer) (storing information in unused bits of pointers)
 - [NaN boxing](http://syntheti.cc/article/nan-boxing) (using bits of IEEE 754 floats for tagging, similar to pointer tagging)
 - [Turbofan wiki](https://github.com/v8/v8/wiki/TurboFan) (contains technical design docs of V8's new TurboFan compiler)
-- [Continuation-Passing Style](https://en.wikipedia.org/wiki/Continuation-passing_style) (aka CPS)
+
+- Continuations
+  - [Continuation-Passing Style](https://en.wikipedia.org/wiki/Continuation-passing_style) (aka CPS)
+  - [Exceptional Continuations in JavaScript](http://www.schemeworkshop.org/2007/procPaper4.pdf) (pdf; implementing continuations/call-cc in JavaScript using transpilation and exceptions)
+  - [What’s in a Continuation](http://jlongster.com/Whats-in-a-Continuation)
+  - [How to compile with continuations](http://matt.might.net/articles/cps-conversion) (CPS transforms)
 
 - Intermediate Representations
   - [Three Address Code](https://en.wikipedia.org/wiki/Three-address_code)
