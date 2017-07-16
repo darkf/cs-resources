@@ -54,7 +54,7 @@ See also the general topics below: especially computer graphics, data structures
 - Continuations
   - [Continuation-Passing Style](https://en.wikipedia.org/wiki/Continuation-passing_style) (aka CPS)
   - [Exceptional Continuations in JavaScript](http://www.schemeworkshop.org/2007/procPaper4.pdf) (pdf; implementing continuations/call-cc in JavaScript using transpilation and exceptions)
-  - [What’s in a Continuation](http://jlongster.com/Whats-in-a-Continuation)
+  - [What’s in a Continuation](http://jlongster.com/Whats-in-a-Continuation) (and related project [unwinder](https://github.com/jlongster/unwinder))
   - [How to compile with continuations](http://matt.might.net/articles/cps-conversion) (CPS transforms)
 
 - Intermediate Representations
