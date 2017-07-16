@@ -21,6 +21,10 @@ See also the general topics below: especially computer graphics, data structures
   - [Behavior Trees](https://en.wikipedia.org/wiki/Behavior_tree)
   - [Boids](https://en.wikipedia.org/wiki/Boids) (flocking behavior)
   
+- Collision / Physics
+  - [2D collision detection](https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection#Circle_Collision) (especially Separating Axis Theorem, aka SAT)
+  - [Integration Basics](https://gafferongames.com/post/integration_basics)
+  
 ### Computer Graphics
 - [Metaballs](https://en.wikipedia.org/wiki/Metaballs)
   - [Metaballs and WebGL](http://jamie-wong.com/2016/07/06/metaballs-and-webgl)
