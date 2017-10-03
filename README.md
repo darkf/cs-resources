@@ -33,6 +33,13 @@ See also the general topics below: especially computer graphics, data structures
 - [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) (CSG -- boolean operations on meshes)
 - [Fast Inverse Square Root](https://en.wikipedia.org/wiki/Fast_inverse_square_root) (famous algorithm for calculating `1 / sqrt(x)`, used heavily for vector normalization (originally for lighting in Quake III Arena))
 - [How OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki) (lessons on creating a software rasterizer)
+- [Inigo Quilez' blog](http://www.iquilezles.org/www/index.htm)
+
+- [Signed Distance Fields](https://en.wikipedia.org/wiki/Signed_distance_function)
+  - [Modeling with Distance Functions](http://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm) (and the [ShaderToy example/code](https://www.shadertoy.com/view/Xds3zN))
+  - [nvscene 2008 - Rendering Worlds With Two Triangles](http://www.iquilezles.org/www/material/nvscene2008/nvscene2008.htm)
+  - [Volumetric Rendering: Signed Distance Functions](http://www.alanzucconi.com/2016/07/01/signed-distance-functions)
+  - [Ray Marching and Signed Distance Functions](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions)
 
 ### Programming Language Theory and Compilers/Interpreters
 - [The Programming Languages Zoo](http://plzoo.andrej.com)
