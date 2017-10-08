@@ -107,6 +107,7 @@ See also the general topics below: especially computer graphics, data structures
   - [A*](https://en.wikipedia.org/wiki/A*_search_algorithm) (Dijkstra's algorithm with heuristics, very commonly used)
   - [D* Lite](https://en.wikipedia.org/wiki/D*#D.2A_Lite)
   - [Jump Point Search](https://en.wikipedia.org/wiki/Jump_point_search)
+  - [Understanding Goal-Based Vector Field Pathfinding](https://gamedevelopment.tutsplus.com/tutorials/understanding-goal-based-vector-field-pathfinding--gamedev-9007) (fast pathfinding using vector fields for large numbers of entities)
 - [Topological sorting](https://en.wikipedia.org/wiki/Topological_sorting) (for ordering nodes in a graph based on dependents)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (free book)
 - [Creating A Genetic Algorithm For Beginners](http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3)
