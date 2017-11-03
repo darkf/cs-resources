@@ -24,6 +24,7 @@ See also the general topics below: especially computer graphics, data structures
 - Collision / Physics
   - [2D collision detection](https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection#Circle_Collision) (especially Separating Axis Theorem, aka SAT)
   - [Integration Basics](https://gafferongames.com/post/integration_basics)
+  - [Real-Time Collision Detection](http://realtimecollisiondetection.net) (commercial book; basically the definitive resource on collision)
   
 ### Computer Graphics
 - [Metaballs](https://en.wikipedia.org/wiki/Metaballs)
