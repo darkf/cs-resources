@@ -27,6 +27,7 @@ See also the general topics below: especially computer graphics, data structures
   - [Real-Time Collision Detection](http://realtimecollisiondetection.net) (commercial book; basically the definitive resource on collision)
   
 ### Computer Graphics
+- [Graphics Pipeline](https://en.wikipedia.org/wiki/Graphics_pipeline) (overview of how computer graphics works)
 - [Metaballs](https://en.wikipedia.org/wiki/Metaballs)
   - [Metaballs and WebGL](http://jamie-wong.com/2016/07/06/metaballs-and-webgl)
   - [Metaballs and Marching Squares](http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares)
@@ -34,6 +35,8 @@ See also the general topics below: especially computer graphics, data structures
 - [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) (CSG -- boolean operations on meshes)
 - [Fast Inverse Square Root](https://en.wikipedia.org/wiki/Fast_inverse_square_root) (famous algorithm for calculating `1 / sqrt(x)`, used heavily for vector normalization (originally for lighting in Quake III Arena))
 - [How OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki) (lessons on creating a software rasterizer)
+- [Sutherland-Hodgman algorithm](https://en.wikipedia.org/wiki/Sutherland%E2%80%93Hodgman_algorithm) for polygon clipping
+- [Clip Space Approach – Extracting the Planes](http://www.lighthouse3d.com/tutorials/view-frustum-culling/clip-space-approach-extracting-the-planes) (frustum culling in clip space)
 - [Inigo Quilez' blog](http://www.iquilezles.org/www/index.htm)
 
 - [Signed Distance Fields](https://en.wikipedia.org/wiki/Signed_distance_function)
@@ -41,6 +44,10 @@ See also the general topics below: especially computer graphics, data structures
   - [nvscene 2008 - Rendering Worlds With Two Triangles](http://www.iquilezles.org/www/material/nvscene2008/nvscene2008.htm)
   - [Volumetric Rendering: Signed Distance Functions](http://www.alanzucconi.com/2016/07/01/signed-distance-functions)
   - [Ray Marching and Signed Distance Functions](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions)
+  
+- [Rasterization](https://en.wikipedia.org/wiki/Rasterisation)
+  - [Rasterization: a Practical Implementation](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/overview-rasterization-algorithm)
+  - [Triangle rasterization in practice](https://fgiesen.wordpress.com/2013/02/08/triangle-rasterization-in-practice)
 
 ### Programming Language Theory and Compilers/Interpreters
 - [The Programming Languages Zoo](http://plzoo.andrej.com)
