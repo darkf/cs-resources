@@ -120,6 +120,7 @@ See also the general topics below: especially computer graphics, data structures
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (free book)
 - [Creating A Genetic Algorithm For Beginners](http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3)
 - [Shor's algorithm](https://en.wikipedia.org/wiki/Shor's_algorithm) (quantum computer algorithm for integer factorization in polynomial time)
+- [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html) (little black book of hacks using bitwise ops)
 
 ### Data Structures
 - [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)
