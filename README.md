@@ -135,7 +135,7 @@ See also the general topics below: especially computer graphics, data structures
 - [Tries](https://en.wikipedia.org/wiki/Trie)
 - [Interval trees](https://en.wikipedia.org/wiki/Interval_tree) / [Segment trees](https://en.wikipedia.org/wiki/Segment_tree)
 - [Blockchain 101](https://anders.com/blockchain) (a good video tutorial and demonstration of [blockchains](https://en.wikipedia.org/wiki/Blockchain_(database)))
-- [Distributed Hash Table](https://en.wikipedia.org/wiki/Distributed_hash_table) (self-explanatory; notably used in BitTorrthe 
+- [Distributed Hash Table](https://en.wikipedia.org/wiki/Distributed_hash_table) (self-explanatory; notably used in BitTorrent) 
 - [XOR linked list](https://en.wikipedia.org/wiki/XOR_linked_list) (more space-efficient doubly linked list implementation by XORing the previous and next pointers)
 
 - Memory Allocation
